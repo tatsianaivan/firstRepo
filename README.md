@@ -1,2 +1,3 @@
 # firstRepo
 description
+обучение
